@@ -1,4 +1,8 @@
 ## Hi there, I'm Miroslav! 👋 ##
+
+![Banner](https://github.com/cvemir369/cvemir369/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+
+
 Welcome to my GitHub profile! I'm a Full Stack Developer passionate about building web applications. Here's a little about me:
 
 ### About Me 🚀 ###
