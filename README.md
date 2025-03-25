@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miroslav from Serbia ✈️➡️🏠 Germany</h1>
 <h3 align="center">A Full Stack Web & App Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvemir369" alt="cvemir369" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvemir369&theme=onedark" alt="cvemir369" /></a> </p>
 
 <p>I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I’ve carried into my career as a Full-Stack Developer.
 
@@ -11,7 +11,7 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 
 - 👦 More about me and what I do: **[https://cvemir369.github.io/](https://cvemir369.github.io/)**
 
-- 📫 How to reach me: **cvemir369@gmail.com**
+- 📫 How to reach me: ✉️ **cvemir369@gmail.com** or connect with me 🔗 <a href="https://linkedin.com/in/cvemir369" target="blank">**linkedin.com/in/cvemir369**</a>
 
 - ⚡ Hobbies: **guitar 🎸, darts 🎯, gaming 🎮, fishing 🎣**
 
