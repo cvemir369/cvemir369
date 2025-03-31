@@ -9,7 +9,7 @@ Today, I am a customer-focused developer with expertise in both front-end and ba
 
 Passionate about leveraging technology to solve real-world problems, I’m always eager to collaborate on innovative projects that push boundaries and create meaningful impact. Let’s connect!</p>
 
-- 👦 More about me and what I do: **[https://cvemir369.github.io/](https://cvemir369.github.io/)**
+- 👦 More about me and what I do: **[https://miroslavcvetkovic.onrender.com/](https://miroslavcvetkovic.onrender.com/)**
 
 - 📫 How to reach me: ✉️ **cvemir369@gmail.com** or connect with me 🔗 <a href="https://linkedin.com/in/cvemir369" target="blank">**linkedin.com/in/cvemir369**</a>
 
