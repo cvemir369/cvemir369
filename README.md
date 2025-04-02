@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   Hi, I'm Miroslav Cvetković
 </h1>
-<h3 align="center">🚀 Full Stack Web & App Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Web & App Developer and Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
