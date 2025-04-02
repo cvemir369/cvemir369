@@ -20,8 +20,6 @@
 
 ### 🎯 About Me
 
-<img align="center" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
 <p align="left">
   
   I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I've carried into my career as a Full-Stack Developer.
