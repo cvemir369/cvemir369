@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Miroslav Cvetković</h1>
 <h3 align="center">A Full Stack Web & App Developer</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+
+[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,sqlite,git,github,vite,figma,postman)](https://skillicons.dev)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvemir369&theme=onedark" alt="cvemir369" /></a> </p>
 
 <p>I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I’ve carried into my career as a Full-Stack Developer.
@@ -19,10 +23,6 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 <p align="left">
 <a href="https://linkedin.com/in/cvemir369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cvemir369" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,sqlite,git,github,vite,figma,postman)](https://skillicons.dev)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvemir369&show_icons=true&locale=en" alt="cvemir369" />
