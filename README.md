@@ -56,7 +56,7 @@
 ### 🎮 Hobbies & Interests
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🎸 Guitar-%23FF0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/-🎸 Guitar-%23FFFFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/-🎯 Darts-%2300FF00?style=flat-square" />
   <img src="https://img.shields.io/badge/-🎮 Gaming-%237700FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-🎣 Fishing-%230077FF?style=flat-square" />
