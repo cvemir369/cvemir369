@@ -14,11 +14,11 @@
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
+<p align="center">
 
 [![MySkills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,django,flask,postgresql,mysql,mongodb,sqlite,git,github,vite,tailwind,bootstrap,figma,postman,docker,ae,au)](https://skillicons.dev)
 
-</div>
+</p>
 
 ---
 
