@@ -20,21 +20,16 @@
 
 ### 🎯 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      
-I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I've carried into my career as a Full-Stack Developer.
+<img align="center" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
-Today, I am a customer-focused developer with expertise in both front-end and back-end technologies - MERN/PERN/PDRP Stack. My technical skill set includes Python (Django, Flask), JavaScript (React, Node.js, Express.js), HTML5, CSS, and database management with SQL (PostgreSQL) and NoSQL (MongoDB). I'm also proficient in using Git and GitHub for version control, as well as frameworks like Tailwind CSS for creating visually appealing, responsive designs.
+<p align="left">
+  
+  I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I've carried into my career as a Full-Stack Developer.
 
-Passionate about leveraging technology to solve real-world problems, I'm always eager to collaborate on innovative projects that push boundaries and create meaningful impact. Let's connect!
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
-    </td>
-  </tr>
-</table>
+  Today, I am a customer-focused developer with expertise in both front-end and back-end technologies - MERN/PERN/PDRP Stack. My technical skill set includes Python (Django, Flask), JavaScript (React, Node.js, Express.js), HTML5, CSS, and database management with SQL (PostgreSQL) and NoSQL (MongoDB). I'm also proficient in using Git and GitHub for version control, as well as frameworks like Tailwind CSS for creating visually appealing, responsive designs.
+
+  Passionate about leveraging technology to solve real-world problems, I'm always eager to collaborate on innovative projects that push boundaries and create meaningful impact. Let's connect!
+</p>
 
 ---
 
