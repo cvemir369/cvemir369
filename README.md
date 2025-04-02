@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,sqlite,git,github,vite,tailwind,bootstrap,figma,postman,docker,ae,au,ap)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,django,flask,postgresql,mysql,mongodb,sqlite,git,github,vite,tailwind,bootstrap,figma,postman,docker,ae,au,ap)](https://skillicons.dev)
 
 </div>
 
