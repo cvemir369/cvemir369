@@ -56,6 +56,7 @@
 ### 🎮 Hobbies & Interests
 
 <p align="center">
+**guitar 🎸, darts 🎯, gaming 🎮, fishing 🎣**
   <img src="https://img.shields.io/badge/-Guitar-%23FF0000?style=flat-square&logo=guitar&logoColor=white" />
   <img src="https://img.shields.io/badge/-Darts-%2300FF00?style=flat-square&logo=darts&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gaming-%237700FF?style=flat-square&logo=steam&logoColor=white" />
