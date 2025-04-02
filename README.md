@@ -15,7 +15,9 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,py,django,flask,postgresql,mongodb,sqlite,git,github,vite,figma,postman" />
+   
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,py,django,flask,postgresql,mongodb,sqlite,git,github,vite,figma,postman" />
+
 </p>
 
 <div align="center">
