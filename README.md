@@ -1,7 +1,6 @@
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   Hi, I'm Miroslav Cvetković
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 <h3 align="center">🚀 Full Stack Web & App Developer | Problem Solver | Tech Enthusiast</h3>
 
@@ -17,6 +16,7 @@
 
 <div align="center">
   [![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,py,django,flask,postgres,mongodb,sqlite,git,github,vite,figma,postman,vscode)](https://skillicons.dev)
+
 </div>
 
 ---
@@ -52,7 +52,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://miroslavcvetkovic.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvemir369/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvemir369@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
   
 </div>
 
