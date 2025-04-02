@@ -22,7 +22,7 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,git,figma,postman)]
+[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,git,figma,postman)](https://skillicons.dev)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvemir369&show_icons=true&locale=en" alt="cvemir369" />
