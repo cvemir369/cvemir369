@@ -20,7 +20,7 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 <h3 align="left"> 📫 How to reach me:</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvemir369@gmail.com) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvemir369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvemir369/)
 
 <h3 align="left">⚡ Hobbies:</h3>
 
