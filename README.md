@@ -14,7 +14,7 @@
 
 ### 🛠️ Languages and Tools
 
-[![MySkills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,django,flask,postgresql,mysql,mongodb,sqlite,git,github,vite,tailwind,bootstrap,figma,postman,docker,ae,au)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,express,python,django,flask,postgresql,mysql,mongodb,sqlite,git,github,vite,tailwind,bootstrap,figma,postman,docker,ae)](https://skillicons.dev)
 
 ---
 
