@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miroslav Cvetković</h1>
+8<h1 align="center">Hi 👋, I'm Miroslav Cvetković</h1>
 <h3 align="center">A Full Stack Web & App Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvemir369&theme=onedark" alt="cvemir369" /></a> </p>
@@ -22,7 +22,7 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,git,figma,postman)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,sqlite,git,github,vite,figma,postman)](https://skillicons.dev)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvemir369&show_icons=true&locale=en" alt="cvemir369" />
