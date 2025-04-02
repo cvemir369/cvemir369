@@ -14,7 +14,8 @@ Today, I am a customer-focused developer with expertise in both front-end and ba
 Passionate about leveraging technology to solve real-world problems, I’m always eager to collaborate on innovative projects that push boundaries and create meaningful impact. Let’s connect!</p>
 
 <h3 align="left">👦 More about me and what I do:</h3>
- **[miroslavcvetkovic.onrender.com](https://miroslavcvetkovic.onrender.com/)**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://miroslavcvetkovic.onrender.com/)
 
 <h3 align="left"> 📫 How to reach me:</h3>
 
