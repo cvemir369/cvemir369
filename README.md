@@ -45,7 +45,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://miroslavcvetkovic.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=chrome&logoColor=white)](https://miroslavcvetkovic.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvemir369/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvemir369@gmail.com)
   
@@ -57,11 +57,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-🎸 Guitar-%23FFFFFF?style=flat-round" />
-  <img src="https://img.shields.io/badge/-🎯 Darts-%23FFFFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-🎮 Gaming-%23FFFFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-📷 Photography-%23FFFFFF?style=flat-square" />
-</p>
-  <img src="https://img.shields.io/badge/-🎣 Fishing-%23FFFFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-🎯 Darts-%23FFFFFF?style=flat-round" />
+  <img src="https://img.shields.io/badge/-🎮 Gaming-%23FFFFFF?style=flat-round" />
+  <img src="https://img.shields.io/badge/-📷 Photography-%23FFFFFF?style=flat-round" />
+  <img src="https://img.shields.io/badge/-🎣 Fishing-%23FFFFFF?style=flat-round" />
 </p>
 
 ---
