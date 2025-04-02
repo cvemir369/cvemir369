@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miroslav Cvetković</h1>
 <h3 align="center">A Full Stack Web & App Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvemir369&theme=onedark" alt="cvemir369" /></a> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,sqlite,git,github,vite,figma,postman)](https://skillicons.dev)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvemir369&theme=onedark" alt="cvemir369" /></a> </p>
 
 <p>I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I’ve carried into my career as a Full-Stack Developer.
 
