@@ -15,7 +15,11 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 
 - 👦 More about me and what I do: **[miroslavcvetkovic.onrender.com](https://miroslavcvetkovic.onrender.com/)**
 
-- 📫 How to reach me: ✉️ **cvemir369@gmail.com** or connect with me 🔗 <a href="https://linkedin.com/in/cvemir369" target="blank">**linkedin.com/in/cvemir369**</a>
+- 📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvemir369@gmail.com)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ✉️ **cvemir369@gmail.com** or connect with me 🔗 <a href="https://linkedin.com/in/cvemir369" target="blank">**linkedin.com/in/cvemir369**</a>
 
 - ⚡ Hobbies: **guitar 🎸, darts 🎯, gaming 🎮, fishing 🎣**
 
