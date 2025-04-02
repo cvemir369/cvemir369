@@ -21,6 +21,7 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![MySkills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,python,django,flask,postgresql,mongodb,git,figma,postman)](https://skillicons.dev)
 
 <p align="left">
