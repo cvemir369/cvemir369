@@ -15,7 +15,7 @@ Passionate about leveraging technology to solve real-world problems, I’m alway
 
 <h3 align="left">👦 More about me and what I do:</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://miroslavcvetkovic.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miroslavcvetkovic.onrender.com/)
 
 <h3 align="left"> 📫 How to reach me:</h3>
 
