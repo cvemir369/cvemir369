@@ -13,14 +13,17 @@ Today, I am a customer-focused developer with expertise in both front-end and ba
 
 Passionate about leveraging technology to solve real-world problems, I’m always eager to collaborate on innovative projects that push boundaries and create meaningful impact. Let’s connect!</p>
 
-- 👦 More about me and what I do: **[miroslavcvetkovic.onrender.com](https://miroslavcvetkovic.onrender.com/)**
+<h3 align="left">👦 More about me and what I do:</h3>
+ **[miroslavcvetkovic.onrender.com](https://miroslavcvetkovic.onrender.com/)**
 
 <h3 align="left"> 📫 How to reach me:</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cvemir369@gmail.com) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvemir369/)
 
-- ⚡ Hobbies: **guitar 🎸, darts 🎯, gaming 🎮, fishing 🎣**
+<h3 align="left">⚡ Hobbies:</h3>
+
+**guitar 🎸, darts 🎯, gaming 🎮, fishing 🎣**
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvemir369&show_icons=true&locale=en" alt="cvemir369" />
