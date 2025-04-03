@@ -53,14 +53,6 @@
   
 </div>
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat-square&logo=google-chrome&logoColor=black)](https://miroslavcvetkovic.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cvemir369/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cvemir369@gmail.com)
-
-</div>
-
 ---
 
 ### 🎮 Hobbies & Interests
