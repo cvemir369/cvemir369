@@ -24,11 +24,22 @@
 
 <p align="left">
   
-  I began my career as a freelance Audio & Video Producer, where I mastered the art of recording, editing, mixing, and mastering. This role instilled in me a strong attention to detail, creativity, and a commitment to delivering exceptional quality—all of which I've carried into my career as a Full-Stack Developer.
+  Here’s a refined version of your bio with a more relaxed tone and the additional details you requested:  
 
-  Today, I am a customer-focused developer with expertise in both front-end and back-end technologies - MERN/PERN/PDRP Stack. My technical skill set includes Python (Django, Flask), JavaScript (React, Node.js, Express.js), HTML5, CSS, and database management with SQL (PostgreSQL) and NoSQL (MongoDB). I'm also proficient in using Git and GitHub for version control, as well as frameworks like Tailwind CSS for creating visually appealing, responsive designs.
+---  
 
-  Passionate about leveraging technology to solve real-world problems, I'm always eager to collaborate on innovative projects that push boundaries and create meaningful impact. Let's connect!
+**Freelance Audio & Video Producer turned Full-Stack Developer**  
+I started my career crafting sound and visuals—recording, editing, mixing, and mastering—which sharpened my eye for detail, creativity, and dedication to high-quality work. Those skills seamlessly transitioned into my journey as a **Full-Stack Developer**, where I now build robust and engaging digital experiences.  
+
+I specialize in the **MERN/PERN stacks**, with expertise in **Python (Django, Flask), JavaScript (React, Node.js, Express.js), HTML5, CSS**, and database management using **SQL (PostgreSQL) and NoSQL (MongoDB)**. I also love working with **Git/GitHub** for version control and frameworks like **Tailwind CSS** to create sleek, responsive designs.  
+
+Technology excites me most when it solves real-world problems. I’m always open to collaborating on innovative projects that push boundaries and make an impact.  
+
+**Originally from Niš, Serbia 🇷🇸, now based in Weilheim, Germany 🇩🇪.** Let’s connect and build something awesome!  
+
+---  
+
+This keeps it professional but more conversational and engaging. Let me know if you'd like any further tweaks!
 </p>
 
 ---
