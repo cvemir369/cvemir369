@@ -65,6 +65,14 @@
   <img src="https://img.shields.io/badge/-🎣 Fishing-%23FFFFFF?style=flat-round" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-🎸%20Guitar-000000?style=flat-round&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🎯%20Darts-000000?style=flat-round&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🎮%20Gaming-000000?style=flat-round&logoColor=white" />
+  <img src="https://img.shields.io/badge/-📷%20Photography-000000?style=flat-round&logoColor=white" />
+  <img src="https://img.shields.io/badge/-🎣%20Fishing-000000?style=flat-round&logoColor=white" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
