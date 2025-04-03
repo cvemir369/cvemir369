@@ -22,11 +22,7 @@
 
 ### 🎯 About Me
 
-<p align="left">
-  
-  Here’s a refined version of your bio with a more relaxed tone and the additional details you requested:  
-
----  
+<p align="left"> 
 
 **Freelance Audio & Video Producer turned Full-Stack Developer**  
 I started my career crafting sound and visuals—recording, editing, mixing, and mastering—which sharpened my eye for detail, creativity, and dedication to high-quality work. Those skills seamlessly transitioned into my journey as a **Full-Stack Developer**, where I now build robust and engaging digital experiences.  
@@ -37,9 +33,6 @@ Technology excites me most when it solves real-world problems. I’m always open
 
 **Originally from Niš, Serbia 🇷🇸, now based in Weilheim, Germany 🇩🇪.** Let’s connect and build something awesome!  
 
----  
-
-This keeps it professional but more conversational and engaging. Let me know if you'd like any further tweaks!
 </p>
 
 ---
