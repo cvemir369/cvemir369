@@ -30,7 +30,7 @@
 
 I started my career crafting sound and visuals—recording, editing, mixing, and mastering—which sharpened my eye for detail, creativity, and dedication to high-quality work. Those skills seamlessly transitioned into my journey as a **Full-Stack Developer**, where I now build robust and engaging digital experiences.  
 
-I specialize in the **MERN/PERN stacks**, with expertise in **Python (Django, Flask), JavaScript (React, Node.js, Express.js), HTML5, CSS**, and database management using **SQL (PostgreSQL) and NoSQL (MongoDB)**. I also love working with **Git/GitHub** for version control and frameworks like **Tailwind CSS** to create sleek, responsive designs.  
+I specialize in the **MERN/PERN stacks**, with expertise in **Python (Django, Flask), JavaScript (React, Node.js, Express.js, TypeScript), HTML5, CSS**, and database management using **SQL (PostgreSQL) and NoSQL (MongoDB)**. I also love working with **Git/GitHub** for version control and frameworks like **Tailwind CSS** to create sleek, responsive designs.  
 
 Technology excites me most when it solves real-world problems. I’m always open to collaborating on innovative projects that push boundaries and make an impact.  
 
