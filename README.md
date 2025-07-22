@@ -42,7 +42,6 @@ Let’s connect and build something awesome!
 
 ### 📌 Highlights
 
-- 🔭 I'm currently working on improving my TypeScript skills
 - 🌱 Learning more about cloud technologies and DevOps
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about web development, audio production, or gaming
